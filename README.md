@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou o José Henrique👋
+ 
 
-<!--
-**zzxnh/zzxnh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação na Anhembi Morumbi, com foco em **análise de dados**.
+Busco estágio na área de dados ou TI.
 
-Here are some ideas to get you started:
+## O que estou estudando
+- 📊 Power BI
+- 🐍 Python
+- 🗄️ SQL (MySQL)
+- ☕ Java e programação orientada a objetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+- [Sistema de um Deposito de Banana](https://github.com/zzxnh/sistema-deposito-banana): CRUD para controle de tipos de bananas, clientes e vendas, feito com [Java e MySQL].
+
+## Idiomas
+Português (nativo) | Inglês (intermediário/avançado)
+
+## Contato
+- 💼 [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-henrique5842/)
+- 📧 jh018943@gmail.com
